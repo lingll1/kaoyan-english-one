@@ -1,0 +1,595 @@
+{
+  "meta": {
+    "paper": "英语（一）",
+    "year": 2021,
+    "part": "Part A",
+    "no": 1,
+    "qs": "21–25",
+    "theme": "英国铁路票价再涨：涨价理由、罢工补偿与国有化威胁",
+    "words": 400,
+    "difficulty": "中等偏难",
+    "tags": [
+      "经济民生",
+      "议论文",
+      "作者态度题"
+    ],
+    "file": "英语一2021_阅读Text1.html",
+    "source": "2021 年全国硕士研究生招生考试 英语（一）阅读理解 Part A Text 1"
+  },
+  "para_notes": [
+    {
+      "n": 1,
+      "trans": "火车运营商究竟凭什么能为铁路客运票价的又一次上涨辩解？这已经成了一个准时到来、令人沮丧的年度惯例：每年一月，乘火车出行的费用都会上涨，给那些除了坐火车上班或做别的事情之外别无选择的人，强加上一笔可观的额外负担。今年的涨幅平均为 2.7%，或许比去年略低一点点，但仍远高于官方消费者物价指数（CPI）所衡量的通胀水平。",
+      "grammar": [
+        {
+          "h": "① 修辞性反问：How can the train operators possibly justify ...?",
+          "b": "**结构**：How + 情态动词 can + 主语 + possibly + 动词原形。表面是疑问句，实际不要求回答，而是**用问句的形式表达强烈的否定判断**——「根本没法给出合理解释」。\n**考点**：`possibly` 在疑问句中不表示「可能」，而是加强语气，相当于「究竟、到底」；`justify` 是及物动词，后直接接宾语（justify an increase 为某次涨价辩解），不能说 justify for sth。\n**例**：How can he possibly finish the report in one hour?（他怎么可能一小时内写完报告？）"
+        },
+        {
+          "h": "② 现在分词作结果状语：..., imposing a significant extra burden on those ...",
+          "b": "**结构**：主句 the cost of travelling by train rises 之后的 `imposing` 是现在分词短语，逻辑主语就是主句主语 the cost，表示主句动作**自然导致的结果**（涨价→负担加重）。\n**考点**：分词作状语时，其逻辑主语必须与主句主语一致；`impose sth on sb`（把…强加于某人）的介词只能用 on。\n**辨析**：若改成 and imposes，则变成并列谓语，语气上强调两个动作；用分词则突出「结果」这一层因果关系。"
+        },
+        {
+          "h": "③ have no option but to do 与定语从句 who have no option ...",
+          "b": "**结构**：`those who have no option but to use the rail network` 中，who 引导限制性定语从句修饰 those；从句内 `have no option but to do` 意为「别无选择只能做」。\n**考点**：`but` 在此是介词，意为「除了」，后面接**带 to 的不定式**（but to use）；但当 but 前有实义动词 do 时，习惯上省略 to（have nothing to do but wait）。\n**例**：They had no choice but to accept the terms.（他们别无选择，只能接受条款。）"
+        },
+        {
+          "h": "④ 让步转折 + 比较级程度修饰：may be a fraction lower than ..., but it is still well above ...",
+          "b": "**结构**：`may be ... but it is still ...` 是典型的「让步 + 转折」框架，重点永远落在 but 之后。`a fraction lower than` 中 a fraction 修饰比较级，表「略微」；`well above` 中 well 修饰介词短语，表「远远」。\n**考点**：能修饰比较级的词有 much, far, a lot, a little, a bit, a fraction, even, still 等，**不能用 very**。\n**关键**：作者用「略低于去年」作让步，用「仍远高于通胀」完成转折——这一句就是第 21 题的答案依据。"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "trans": "历届政府都允许这样的上涨，理由是投资和运营铁路网的成本应当由使用它的人来承担，而不是由普通纳税人承担。按这种说法，凭什么让林肯郡一位开车的退休老人，去补贴萨里郡一位股票经纪人的日常通勤？同样，人们也觉得，东南部通勤者的种种艰辛——他们中许多人将面临最大的涨幅之一——所得到的关注太多了，相比之下，那些不得不忍受中部和北部相对糟糕的基础设施的人反倒被忽视了。",
+      "grammar": [
+        {
+          "h": "① 介词短语 + 同位语从句：on the grounds that the cost ... should be borne by ...",
+          "b": "**结构**：`on the grounds that ...` 意为「以…为理由」，其中 that 引导**同位语从句**，说明 grounds 的具体内容。\n**考点**：同位语从句与定语从句的区别——同位语从句的 that 只起连接作用、不作句子成分，且从句本身完整；定语从句的 that 必须在从句中充当主语或宾语。此处从句 the cost should be borne by those... 结构完整，故为同位语从句。\n**搭配**：on the grounds of sth / on the grounds that ...；grounds 恒用复数。"
+        },
+        {
+          "h": "② 情态动词的被动语态 + 不规则过去分词 borne",
+          "b": "**结构**：`should be borne by those who use it` 是「情态动词 + be + 过去分词」的被动结构，表示「应当被…承担」。\n**考点**：bear 表「承担（成本、责任）」时，过去分词是 **borne**（bear-bore-borne）；表「生育」时过去分词是 born。这是考研常考的易混点。\n**例**：The cost will be borne by the taxpayer.（费用将由纳税人承担。）/ She was born in 1990.（她生于 1990 年。）"
+        },
+        {
+          "h": "③ 插入语 + 反问：Why, the argument goes, should a car-driving pensioner ...?",
+          "b": "**结构**：`the argument goes` 是插入语（意为「这种论点的说法是」），插在 Why 与 should 之间，把反问句拆开。去掉插入语后句子为 Why should a car-driving pensioner from Lincolnshire have to subsidise ...?\n**考点**：插入语不影响句子结构，阅读时应先跳过它抓住主干；`Why should ...?` 同样为修辞性反问，此处用来**复述并质疑**「使用者付费」的论调。\n**注意**：`car-driving` 是复合形容词，修饰 pensioner（开车的退休老人）；`from Lincolnshire` 是后置定语。"
+        },
+        {
+          "h": "④ 非限制性定语从句（介词 + 关系代词）：many of whom will face ...",
+          "b": "**结构**：`the travails of commuters in the South East, many of whom will face among the biggest rises, have received ...` 中，many of whom 引导**非限制性定语从句**修饰 commuters，用逗号与主句隔开。\n**考点**：关系代词前有介词或数量词（many of / some of / most of / none of）时，只能用 **whom**（指人）或 which（指物），不能用 who 或 that。\n**易错**：主句谓语是 have received，主语是 the travails（艰辛），不要被插入的从句干扰而误判主谓一致。"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "trans": "然而在过去 12 个月里，这些通勤者还经历了多年来最严重的一些铁路罢工。火车运营商大肆吹嘘他们正在对铁路网做出的改进，这固然可以，但乘客支付了这么大笔钱出行，理应能够期待得到基本水平的服务。最近这波罢工的责任在工会。然而，有充分理由认为，那些受罢工冲击最严重的人，应当为他们遭受的扰乱获得补偿。",
+      "grammar": [
+        {
+          "h": "① It is all very well ..., but ... 与形式主语",
+          "b": "**结构**：`It is all very well train operators trumpeting the improvements ..., but passengers should be able to expect ...`\n- `It` 是形式主语；真正的主语是动名词复合结构 `train operators trumpeting the improvements`（运营商吹嘘改进这件事）。\n- `all very well` 是固定说法，意为「…固然不错（但…）」，永远与 but 呼应，**语义重心在 but 之后**。\n**考点**：动名词的复合结构 = 名词所有格/宾格 + 动名词；此处用宾格 train operators 是因为该结构较长。\n**例**：It's all very well saying you're sorry, but you must make up for it.（说句抱歉固然可以，但你得弥补。）"
+        },
+        {
+          "h": "② 两个省略关系代词的限制性定语从句",
+          "b": "**结构**：`the improvements (which/that) they are making to the network` 与 `the substantial sums (which/that) they are now paying to travel`，两个定语从句都**省略了作宾语的关系代词**。\n**考点**：关系代词在限制性定语从句中作宾语时可以省略；作主语时不可省略。判断方法：从句缺宾语→可省；从句缺主语→不可省。\n**搭配**：make improvements to sth（对…作出改进）；pay money to do sth（花钱做某事）。"
+        },
+        {
+          "h": "③ 定语从句 + 现在完成时的被动语态：those who have been worst affected by ...",
+          "b": "**结构**：`those who have been worst affected by industrial action should receive compensation` 中，who 引导定语从句，从句谓语是 `have been worst affected`（现在完成时被动语态），主句谓语是 should receive。\n**考点**：`be affected by`（受…影响）常用被动；worst 在此是副词 well 的最高级，修饰 affected，表「受影响最严重」。\n**提示**：industrial action 是英式英语中对「罢工等工业行动」的委婉说法，本句即指罢工。"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "trans": "政府已承诺修改法律，引入最低服务水平的要求，以便即使发生罢工，列车服务也能继续运行。这应当成为解决英国铁路长期存在问题的更广泛一揽子措施的一部分。是的，需要更多投资，但如果乘客还必须忍受拥挤不堪、准点无望的服务，并且时不时被改点时的例行混乱、或被处理得一团糟的计划检修打断，他们就不会愿意无限期地多付钱。国有化的威胁眼下也许已经被挡了回去，但如果乘客合理的愤怒不能很快得到回应，它将以更猛烈的方式回归。",
+      "grammar": [
+        {
+          "h": "① 目的状语从句中嵌套让步与时间状语从句",
+          "b": "**结构**：`so that, even when strikes occur, services can continue to operate`\n- `so that` 引导目的状语从句，从句主语 services、谓语 can continue。\n- 从句内部又插入 `even when strikes occur`（even when 引导让步/时间状语从句）。\n**考点**：so that 引导目的状语从句时，从句常含 can/could/may/might/will/would 等情态动词；引导结果状语从句时则用逗号与主句隔开，且不用情态动词。\n**例**：He spoke slowly so that everyone could follow him.（他讲得慢，以便所有人都能跟上。）"
+        },
+        {
+          "h": "② 过去分词短语作后置定语：services, punctuated by regular chaos when ...",
+          "b": "**结构**：`punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently` 是过去分词短语，作**后置定语**修饰 services，相当于 which are punctuated by ...。\n**考点**：`be punctuated by`（被…不时打断）用被动；when 引导的是定语从句（修饰 chaos 所对应的情形），其中 or 连接两个并列的被动结构：timetables are changed 与 planned maintenance is managed incompetently。\n**注意**：第二个分句的主语是 planned maintenance，谓语是 is managed，不要误读成「计划维护管理无能的人」。"
+        },
+        {
+          "h": "③ 情态动词 + 完成式被动：may have been seen off",
+          "b": "**结构**：`The threat of nationalisation may have been seen off for now`\n- `may have been seen off` = 情态动词 may + 完成式 have been + 过去分词，表示**对过去情况的推测**：「可能已经被挡回去了」。\n- `see off` 是短语动词，意为「击退、赶走」，此处用被动。\n**考点**：must have done（一定已经）、may/might have done（可能已经）、can't have done（不可能已经）是考研高频的「情态动词 + 完成式」结构。\n**例**：The problem may have been solved already.（问题可能已经解决了。）"
+        },
+        {
+          "h": "④ 条件状语从句中的被动语态与过去分词作定语",
+          "b": "**结构**：`if the justified anger of passengers is not addressed in short order`\n- `the justified anger` 中 justified 是过去分词作定语，意为「有正当理由的（愤怒）」。\n- 从句谓语 `is not addressed` 是一般现在时被动语态，主语是 anger。\n**考点**：`address` 在此不表示「地址」，而是「处理、应对（问题）」；`in short order` 是固定短语，意为「很快、立刻」。\n**串联**：本句与第 24 题的 D 项 a change of ownership 直接对应——nationalisation（国有化）就是所有权的变更。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "no": 21,
+      "type": "细节题",
+      "stem": "The author holds that this year's increase in rail passenger fares ______.",
+      "options": {
+        "A": "will ease train operators' burden",
+        "B": "has kept pace with inflation",
+        "C": "is a big surprise to commuters",
+        "D": "remains an unreasonable measure"
+      },
+      "answer": "D",
+      "locate": "第一段第③句（配合第②句）",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation.**\n译为：今年的涨幅平均为 2.7%，或许比去年略低一点点，但仍远高于官方消费者物价指数（CPI）所衡量的通胀水平。\n上一句又把涨价称作「准时到来的、令人沮丧的年度惯例」，给那些别无选择只能坐火车的人强加额外负担。两句合起来，作者的判断是：**这次涨价幅度超出通胀，缺乏正当理由**——正是 D 项「仍是一项不合理的措施」。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① 让步转折框架 `may be ... but it is still ...`：may be 表让步（「或许确实…」），but 引出作者真正的判断，重心在 but 之后。\n② `a fraction lower than last year's`：a fraction 修饰比较级，表程度「略微」；比较对象是 last year's (rise)，用的是名词所有格省略式。\n③ `well above ...`：well 修饰介词短语 above，表「远远高于」；能这样用的还有 much, far, a lot，**不能用 very**。\n④ `an average of 2.7 per cent` 是插入语，作 rise 的同位语，补充具体幅度。"
+        },
+        {
+          "k": "难点解析",
+          "t": "真正的难点是**态度判断而非事实提取**。文章给了三个事实：涨幅 2.7%、略低于去年、高于通胀。考生必须读出作者把它们放在一起的用意——「略低」只是让人稍感安慰的表象，「高于通胀」才是实质，所以这次涨价依然说不通。\n另一个难点是题干动词 **holds**（主张、认为），它要求概括作者的态度，而不是复述某个数字；选项中只有 D 是态度判断，A、B、C 都是事实陈述或事实的反面。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. will ease train operators' burden（将减轻运营商负担）**：无中生有。第一段通篇讲乘客负担加重，从未提运营商负担减轻；第三段反而批评运营商「大肆吹嘘改进」。\n- **B. has kept pace with inflation（已与通胀同步）**：反向干扰。原文明确说 well above（远高于）通胀，即涨得**比通胀快**，与「同步」正相反。这是把 above 读成 with 造成的误选，属最低级的定位错误。\n- **C. is a big surprise to commuters（令通勤者大为意外）**：反向干扰。原文称其为 grimly reliable annual ritual（令人沮丧却如期而至的年度惯例），「可靠、如期」恰恰说明**毫不意外**。\n- **D. remains an unreasonable measure**：remains 一词精准对应原文「虽略低于去年、但仍远高于通胀」的持续性，为正确答案。"
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "type": "推理题（例证作用）",
+      "stem": "The stockbroker in Paragraph 2 is used to stand for ______.",
+      "options": {
+        "A": "car drivers",
+        "B": "rail travellers",
+        "C": "local investors",
+        "D": "ordinary taxpayers"
+      },
+      "answer": "B",
+      "locate": "第二段第②句",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**Why, the argument goes, should a car-driving pensioner from Lincolnshire have to subsidise the daily commute of a stockbroker from Surrey?**\n译为：按这种说法，凭什么要让林肯郡一位开车的退休老人，去补贴萨里郡一位股票经纪人的日常通勤？\n句中出现两个具体人物：**开车的退休老人**（自己不开车坐火车，是普通纳税人）与**股票经纪人**（每天坐火车通勤，是铁路乘客）。作者用「凭什么让 A 补贴 B」的反问，复述了「使用者付费」的论调。既然被补贴的一方是「每天通勤」的人，**股票经纪人在这里就代表铁路乘客（rail travellers）**。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① `the argument goes` 是插入语，把反问句 Why ... should ...? 从中间断开；去掉后主干为 Why should a car-driving pensioner ... have to subsidise ...?\n② `have to` 表「不得不」，暗示这种补贴是被迫的、不合理的。\n③ `car-driving` 是「名词 + 动名词」构成的复合形容词，修饰 pensioner；`from Lincolnshire` / `from Surrey` 为后置定语表籍贯。\n④ `subsidise the daily commute of a stockbroker`：subsidise 是及物动词「补贴」，其宾语是 commute（通勤，名词），of 短语限定 commute 的归属。"
+        },
+        {
+          "k": "难点解析",
+          "t": "本题考的是**例证（example）的作用**，属于考研阅读的高频题型。方法是先定位例子，再回看它所支持的观点句。\n观点句是前一句：the cost of investing in and running the rail network should be borne by those who use it, rather than the general taxpayer（成本应由使用者而非普通纳税人承担）。\n例子把这一抽象主张拆成两方：**使用者 = 股票经纪人（坐火车通勤）**，**普通纳税人 = 开车退休老人（不坐火车）**。题干 stand for（代表）问的正是「股票经纪人对应哪一方」，答案自然是铁路乘客。\n第二层难点是**两方身份的反向设定**：很多人看到 car-driving 就以为股票经纪人是开车族，其实开车的是那位退休老人。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. car drivers（开车的人）**：张冠李戴。car-driving 修饰的是 pensioner（退休老人），开车的人恰恰是那个**不该出钱**的一方，与股票经纪人正相反。\n- **C. local investors（本地投资者）**：无中生有。stockbroker 是「股票经纪人」，指为客户买卖股票的中介，不是 investor（投资者）；且全文没有任何「本地」的限定。\n- **D. ordinary taxpayers（普通纳税人）**：张冠李戴。普通纳税人对应的是**退休老人**（他的税款在补贴别人的通勤）；股票经纪人是「使用者」一方，是受益者而非纳税人代表。\n- **B. rail travellers**：与 the daily commute（日常通勤）直接呼应，为正确答案。"
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "type": "推理题",
+      "stem": "It is indicated in Paragraph 3 that train operators ______.",
+      "options": {
+        "A": "are offering compensation to commuters",
+        "B": "are trying to repair relations with the unions",
+        "C": "have failed to provide an adequate service",
+        "D": "have suffered huge losses owing to the strikes"
+      },
+      "answer": "C",
+      "locate": "第三段第②句",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**It is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel.**\n译为：火车运营商大肆吹嘘他们正在对铁路网作出的改进，这固然可以，但乘客付了这么大笔钱出行，理应能够期待得到基本水平的服务。\n「固然可以…但理应能期待基本服务」是典型的**以退为进**：先承认运营商的宣传，再暗示**现实并非如此**——乘客实际上并没有得到与其付费相称的基本服务。因此 C 项「未能提供足够的服务」成立。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① **It is all very well A, but B** 句式：It 为形式主语，真正主语是动名词复合结构 `train operators trumpeting the improvements`；all very well 意为「…固然不错」，必与 but 呼应，语义重心在 but 之后。\n② 两个省略关系代词的限制性定语从句：`the improvements (that) they are making to the network`、`the substantial sums (that) they are now paying to travel`。\n③ `should be able to expect`：情态动词 should 表「理所应当」，暗含与现实的落差；be able to 强调「有能力、有资格」。\n④ `for the substantial sums ...`：for 表交换关系，「用（这么多钱）换来」。"
+        },
+        {
+          "k": "难点解析",
+          "t": "本题难点在**读懂让步句的暗示**。all very well ... but ... 不是简单转折，而是「你说的没错，但这不是重点」。作者并不否认运营商在改进网络，他要指出的是：改进是宣传，服务是现实，两者不匹配。\n第二层难点是**主语是谁**。定位句的主语是 train operators，题干问的也是 train operators；但句子真正被批评的动作发生在 but 之后，且施动者仍是运营商（是他们没能提供基本服务）。若把 but 后一句理解成「乘客应该要求」，就会跑偏。\n第三层：为什么不是 A？因为第三段末句 `there is a strong case that those who have been worst affected ... should receive compensation` 是**作者的主张**（should），不是运营商已经在做的事。这是「主张 vs 事实」的经典混淆。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. are offering compensation to commuters**：时态与语气双重错误。原文是 should receive compensation（应当获得），是作者的建议，不是运营商正在提供的现实；把 should 读成 is doing 就会误选。\n- **B. are trying to repair relations with the unions**：无中生有。原文说 The responsibility for the latest wave of strikes rests on the unions（责任在工会），全文没有一句提到运营商在修复与工会的关系。\n- **D. have suffered huge losses owing to the strikes**：无中生有。原文只说通勤者经历了最严重的罢工、受影响最重，从未提及运营商的财务损失。\n- **C. have failed to provide an adequate service**：由「理应能期待基本服务」反推「实际未达到」，与 but 后的语义方向一致，为正确答案。"
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "type": "细节题（同义替换）",
+      "stem": "If unable to calm down passengers, the railways may have to face ______.",
+      "options": {
+        "A": "the loss of investment",
+        "B": "the collapse of operations",
+        "C": "a reduction of revenue",
+        "D": "a change of ownership"
+      },
+      "answer": "D",
+      "locate": "第四段末句",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**The threat of nationalisation may have been seen off for now, but it will return with a vengeance if the justified anger of passengers is not addressed in short order.**\n译为：国有化的威胁眼下也许已经被挡了回去，但如果乘客合理的愤怒不能很快得到回应，它将以更猛烈的方式回归。\n题干 If unable to calm down passengers 正是 `if the justified anger of passengers is not addressed in short order` 的同义改写；railways may have to face 对应 `it will return with a vengeance`，其中 it 指 the threat of nationalisation。\n**nationalisation（国有化）= 铁路所有权由私人转为国家**，即 D 项 a change of ownership（所有权的变更）。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① `may have been seen off`：情态动词 may + 完成式被动，表示对**过去情况**的推测（「可能已经被挡回去了」）；see off 是短语动词「击退」，此处用被动。\n② `it will return with a vengeance if ...`：主句 + 条件状语从句；with a vengeance 是介词短语作方式状语，意为「猛烈地、变本加厉地」。\n③ 条件从句 `if the justified anger of passengers is not addressed in short order`：被动语态，主语是 anger；justified 为过去分词作定语（有正当理由的）；in short order 是固定短语（很快）。\n④ 代词 it 指代前文的 the threat of nationalisation，指代题意识在此很关键。"
+        },
+        {
+          "k": "难点解析",
+          "t": "本题是**「具体词 → 抽象词」的同义替换题**，也是考研阅读最爱的设题方式：原文说 nationalisation（国有化，一个具体政策名词），选项说 a change of ownership（所有权变更，一个抽象概括），二者是同一件事的不同层级表述。\n识别方法：遇到专有政策名词，先想它的**本质属性**是什么。国有化的本质 = 所有权从私人转到国家 = ownership 的变更。\n第二层难点是**条件句的方向**：题干说的是「如果不能平息乘客的愤怒」，对应原文 if ... is not addressed；换句话说，只要不回应，威胁就回来。方向不能读反。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. the loss of investment（失去投资）**：反向干扰。原文上一句刚说 Yes, more investment is needed（还需要更多投资），是「要增加」投资，不是「失去」投资。\n- **B. the collapse of operations（运营崩溃）**：过度推理。原文只说服务混乱、可能国有化，从未说运营会崩溃；collapse 的程度远超原文。\n- **C. a reduction of revenue（收入减少）**：无中生有。全文没有出现 revenue、profit、income 等财务词，属凭空捏造。\n- **D. a change of ownership**：与 nationalisation 构成抽象同义替换，为正确答案。"
+        }
+      ]
+    },
+    {
+      "no": 25,
+      "type": "主旨题（标题）",
+      "stem": "Which of the following would be the best title for the text?",
+      "options": {
+        "A": "Who Are to Blame for the Strikes?",
+        "B": "Constant Complaining Doesn't Work",
+        "C": "Can Nationalisation Bring Hope?",
+        "D": "Ever-Rising Fares Aren't Sustainable"
+      },
+      "answer": "D",
+      "locate": "全文（首段起笔 + 四段论证走向）",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "全文脉络：\n- 第一段：以反问开篇，指出票价**再度上涨且涨幅高于通胀**，是「令人沮丧的年度惯例」。\n- 第二段：复述并质疑「使用者付费」的涨价理由，指出地区间关注失衡。\n- 第三段：涨价之外又逢大罢工，运营商服务不达标，乘客理应获赔。\n- 第四段：政府拟修法设最低服务水平，但**若不正视乘客的合理愤怒，国有化将以更猛之势回归**。\n四段共同指向一个判断：**票价一路上涨的模式走不下去了**。D 项 Ever-Rising Fares Aren't Sustainable（不断上涨的票价不可持续）恰好覆盖「涨价」这一贯穿全文的核心与「不可持续」这一结论。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "标题题本身不考语法，但四个选项的**语法形态**透露了各自的覆盖面：\n① A、C 为特殊疑问句（Who...? / Can...?），疑问句作标题通常暗示全文围绕一个**悬而未决的问题**展开，而本文作者态度明确，并非开放讨论。\n② B 为否定陈述句（Constant Complaining Doesn't Work），主语是「抱怨」，把文章对象换成了读者的行为。\n③ D 为否定陈述句（Ever-Rising Fares Aren't Sustainable），主语是「不断上涨的票价」——正是全文讨论的客观对象，且 `Ever-Rising`（现在分词作定语，表持续不断地涨）与首段 annual ritual 的「年年如此」呼应。"
+        },
+        {
+          "k": "难点解析",
+          "t": "标题题的核心是**覆盖面检验**：正确项必须能覆盖全文主线，干扰项往往只覆盖某一段。\n逐项检验覆盖面：A 的 blame 只在第三段出现，且作者把罢工责任明确归于工会，并非全文主线；C 的 nationalisation 只在第四段末出现，且原文视其为「威胁」而非「希望」，语气也不符；B 的 complaining 把矛头转向乘客，而作者恰恰在为乘客的愤怒正名（justified anger）。\n只有 D 同时容纳了首段的涨价、二段的涨价理由之争、三段的涨价与服务不匹配、四段的不可持续结局。\n第二个判断技巧：**看首段定调**。首段末句「仍远高于通胀」已经奠定了「涨价不合理」的基调，D 与之同向。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. Who Are to Blame for the Strikes?**：以偏概全。罢工只占第三段，且作者已给出答案（责任在工会），不存在「谁该负责」的开放追问；用它作标题会把一篇经济民生的议论文窄化成劳资纠纷报道。\n- **B. Constant Complaining Doesn't Work**：反向干扰。作者认为乘客的愤怒是 **justified**（有正当理由的），全文是在替乘客说话；B 却贬低抱怨，与作者立场正相反。\n- **C. Can Nationalisation Bring Hope?**：局部 + 语气不符。国有化在原文是「威胁」（the threat of nationalisation），不是「希望」；且只出现在末段一句，撑不起全文。\n- **D. Ever-Rising Fares Aren't Sustainable**：既覆盖核心对象（fares），又给出全文结论（aren't sustainable），为正确答案。"
+        }
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "no": "V1",
+      "tag": "变体 1 · 词义猜解",
+      "type": "词义句意题",
+      "stem": "The phrase \"grimly reliable annual ritual\" (Para. 1) most probably means ______.",
+      "options": {
+        "A": "a joyful tradition celebrated every year",
+        "B": "a regular event that people have come to dread",
+        "C": "an official ceremony held by the government",
+        "D": "an unpredictable change in ticket prices"
+      },
+      "answer": "B",
+      "locate": "第一段第②句",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "原句：**It has become a grimly reliable annual ritual: every January the cost of travelling by train rises, imposing a significant extra burden on those who have no option but to use the rail network.**\n译为：这已经成了一个准时到来、令人沮丧的年度惯例：每年一月，乘火车出行的费用都会上涨，给那些别无选择只能坐火车的人强加一笔可观的额外负担。\n冒号后的内容就是对这个短语的解释：**每年一月必涨**（reliable / annual）+ **给乘客加重负担**（grimly）。合起来即「人们已经习以为常、却又害怕它到来的定期事件」，B 项最贴切。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① 冒号在此起**解释说明**作用，后接对前面的具体展开，是猜词题最可靠的线索标记。\n② `grimly` 是 grim 加 -ly 构成的副词，修饰形容词 reliable，意为「令人沮丧地（可靠）」，属于**矛盾修辞**：可靠性本是褒义，被 grimly 一修饰就变成了「准时得让人心烦」。\n③ `imposing ...` 为现在分词作结果状语，逻辑主语是前面整件事（the cost rises）。\n④ `those who have no option but to use ...` 中 who 引导定语从句，have no option but to do 意为「别无选择只能做」。"
+        },
+        {
+          "k": "难点解析",
+          "t": "猜词题的关键是**不看词本身，看它前后的解释与被修饰对象**。\n本题有三条线索：① 冒号后的 every January ... rises 说明「周期性、按时发生」→ reliable / annual；② imposing a significant extra burden 说明「带来负担」→ grimly；③ 全文语气（第一段开篇的反问、第三段的批评）都是负面的。\n另外要识别 **grimly reliable 的矛盾修辞**：正常搭配应是 reliably annual（可靠地每年一次，中性），作者故意加 grimly，把中性事实变成负面评价。这种「形容词被反向副词修饰」是考研猜词题的常见设计。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. a joyful tradition**：与 grimly 直接冲突。grimly 意为「令人沮丧地」，全文对涨价持批评态度，不可能「令人愉快」。\n- **C. an official ceremony**：把 ritual 误解为「仪式」。ritual 本义确有「仪式」，但此处说的是「每年涨价的惯例」；且原文未提政府举办仪式，属望文生义。\n- **D. an unpredictable change**：与 reliable（可靠的、准时的）正相反。原文强调「每年一月必涨」，是可预测的，不是不可预测的。\n- **B. a regular event that people have come to dread**：regular 对应 annual/reliable，dread 对应 grimly 与 extra burden，为正确答案。"
+        }
+      ]
+    },
+    {
+      "no": "V2",
+      "tag": "变体 2 · 推理判断",
+      "type": "推理题",
+      "stem": "It can be inferred from Paragraph 2 that commuters in the Midlands and the North ______.",
+      "options": {
+        "A": "pay much less for their train tickets than those in the South East",
+        "B": "have drawn less attention despite poorer rail infrastructure",
+        "C": "have staged strikes to demand better rail services",
+        "D": "are more dependent on the rail network than other commuters"
+      },
+      "answer": "B",
+      "locate": "第二段第③句",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**Equally, there is a sense that the travails of commuters in the South East, many of whom will face among the biggest rises, have received too much attention compared to those who must endure the relatively poor infrastructure of the Midlands and the North.**\n译为：同样，人们也觉得，东南部通勤者的种种艰辛——他们中许多人将面临最大的涨幅之一——所得到的关注太多了，相比之下，那些不得不忍受中部和北部相对糟糕基础设施的人反倒被忽视了。\n句中明确：中部和北部的通勤者 **must endure the relatively poor infrastructure**（基础设施相对差），而东南部通勤者 **have received too much attention**（关注过多）。两者对照即得：中部和北部的人**基础设施更差却关注更少**，B 项正确。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① `there is a sense that ...`：that 引导同位语从句，说明 sense（感觉、看法）的内容；从句主语是 the travails，谓语是 have received。\n② 非限制性定语从句 `many of whom will face among the biggest rises`：数量词 + of + whom 结构，只能用 whom。\n③ `compared to those who ...`：过去分词短语作状语，表比较；those who 后接定语从句。\n④ `must endure`：must 表客观上的「不得不」，强调别无选择，语气比 have to 更强。\n⑤ `relatively` 修饰 poor，表示「相对（东南部）而言较差」，不是「绝对很差」。"
+        },
+        {
+          "k": "难点解析",
+          "t": "本题考**对照关系的推理**。原文用 compared to 把两类通勤者放在一起：东南部「关注过多」，中部和北部「基础设施差」。推理需要把两组信息交叉：**基础设施差（客观处境更糟）+ 关注少（被忽视）**。\n难点在 `too much attention` 的判断主体：作者说东南部获得关注太多，语气上是**替中部和北部抱不平**，所以「关注少」不是中性描述，而带有批评意味。\n另一难点是不要把 `relatively poor` 读成「非常差」——它是相对于东南部而言，选项若说 extremely poor 就过度了。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. pay much less for their train tickets**：无中生有。原文只说东南部「面临最大涨幅之一」，从未比较两地票价高低；涨幅与绝对票价是两个概念。\n- **C. have staged strikes**：张冠李戴 + 无中生有。罢工出现在第三段，主体是铁路系统的工人与工会，不是「中部和北部的通勤者」发起的。\n- **D. are more dependent on the rail network**：无中生有。原文评价的是基础设施质量与受关注程度，没有比较各地对铁路的依赖度。\n- **B. have drawn less attention despite poorer rail infrastructure**：由 too much attention（对比出「少」）与 relatively poor infrastructure 直接推出，为正确答案。"
+        }
+      ]
+    },
+    {
+      "no": "V3",
+      "tag": "变体 3 · 作者态度",
+      "type": "态度题",
+      "stem": "Toward the Government's plan to introduce a minimum service requirement, the author's attitude can best be described as ______.",
+      "options": {
+        "A": "reserved approval",
+        "B": "outright dismissal",
+        "C": "complete indifference",
+        "D": "strong suspicion"
+      },
+      "answer": "A",
+      "locate": "第四段第①至②句",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**The Government has pledged to change the law to introduce a minimum service requirement so that, even when strikes occur, services can continue to operate. This should form part of a wider package of measures to address the long-running problems on Britain's railways.**\n译为：政府已承诺修改法律，引入最低服务水平的要求，以便即使发生罢工服务也能继续运行。这**应当成为**解决英国铁路长期存在问题的**更广泛一揽子措施的一部分**。\n作者先说该计划「应当成为…的一部分」，说明**认可其方向**；但紧接着用 should form part of a wider package 暗示**仅此一项远远不够**。认可而不满足，正是 reserved approval（有保留的赞同）。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① `so that ... services can continue to operate`：目的状语从句，从句含情态动词 can。\n② `should form part of ...`：情态动词 should 在此表「理应」，是**评价性用法**而非义务；作者用它表达「这一步是对的，但只是其中一步」。\n③ `part of a wider package of measures to address ...`：to address 为动词不定式作后置定语，修饰 measures。\n④ `has pledged to change the law to introduce ...`：两个不定式连用，第一个 to change 作 pledged 的宾语，第二个 to introduce 表目的。"
+        },
+        {
+          "k": "难点解析",
+          "t": "态度题的关键是抓住**评价性词汇与限定成分**。本句的信号词有两个：\n- `should`（理应）——正面认可；\n- `part of a wider package`（只是更广泛方案的一部分）——程度限定，暗示不够。\n两者相加即「赞同但有保留」。\n还要注意作者紧接着的第三句：Yes, more investment is needed, but passengers will not be willing to pay more indefinitely...（是的，需要更多投资，但乘客不会无限期多付钱）——这是**进一步说明光有这一项不够**，印证 reserved 的判断。\n反之，若作者要表达 outright dismissal，应出现 useless、futile、will not work 之类的否定；若完全 indifferent，则根本不会用 should form part of 这样的建设性表述。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **B. outright dismissal（彻底否定）**：过度。原文用的是 should form part of（理应成为一部分），是建设性认可；作者批评的是「仅此不够」，不是「此举无用」。\n- **C. complete indifference（完全漠不关心）**：与文本冲突。作者专门用一句评价这项计划，还提出「需要配套的更大方案」，绝非漠不关心。\n- **D. strong suspicion（强烈怀疑）**：过度。作者没有质疑该措施的动机或可行性，只是指出其不足以解决问题；suspicion 需要怀疑性词汇支撑。\n- **A. reserved approval**：approved（should form part of）+ reserved（part of a wider package），为正确答案。"
+        }
+      ]
+    },
+    {
+      "no": "V4",
+      "tag": "变体 4 · 指代题",
+      "type": "指代题",
+      "stem": "The word “argument” in Paragraph 3 refers to ______.",
+      "options": {
+        "A": "the claim that passengers alone should pay for the railway",
+        "B": "the dispute between the Government and the unions",
+        "C": "the criticism made by commuters in the Midlands",
+        "D": "the proposal to nationalise the railways"
+      },
+      "answer": "A",
+      "locate": "第三段第①句，回指第二段「The Government's argument is that ...」",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**Why, the argument goes, should a car-driving pensioner from Lincolnshire have to subsidise the daily commute of a stockbroker from Surrey?**\n译为：按这种论点的说法，一位来自林肯郡、自己开车的养老金领取者，凭什么非得去补贴一位来自萨里郡的股票经纪人的日常通勤呢？\n被指的 argument 在第二段：**The Government's argument is that the cost of the rail network should be borne by those who use it.**（政府的主张是：铁路网的成本应由使用它的人承担。）\n作者的写法是「先立后破」——先把政府的论点摆出来（第二段），再在第三段用反诘句把它推向荒谬。所以 the argument 就是「乘客单独承担铁路费用」这一主张。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① `Why, the argument goes, should ...`：Why 引导**修辞性疑问句**（rhetorical question），形式是问句、功能是断言，意为「凭什么……」，并不要求回答。\n② `the argument goes`：**插入语**，主语 argument + 不及物动词 goes（意为「（说法）如此」），插在主谓之间，前后用逗号隔开，去掉后句子仍完整。\n③ `a car-driving pensioner from Lincolnshire`：复合形容词 car-driving 作前置定语，`from Lincolnshire` 为介词短语作后置定语。\n④ `should have to subsidise`：情态动词 should + have to，双重情态叠加，表达「凭什么**竟然要被迫**去补贴」，语气比单用 should 更强。"
+        },
+        {
+          "k": "难点解析",
+          "t": "指代题的解法是**向上找最近的、能代入且通顺的名词性成分**，然后做代入检验。\n- 第一步定性质：argument 意为「论点、主张」，因此被指对象必须是一个**观点性内容**，不能是事件、争端或措施。\n- 第二步回看第二段：该段第一句就是 The Government's argument is that the cost of the rail network should be borne by those who use it，明确提出了一个「主张」。\n- 第三步代入检验：把 A 项 the claim that passengers alone should pay for the railway 代回，得到「按『乘客应独自付费』这一主张的说法，凭什么让养老金领取者补贴股票经纪人」，与下文的质问**完全衔接**。\n- 第四步排除：B「政府与工会的争端」是事件不是论点；C「中部通勤者的批评」是本段作者自己的声音，不是被回指对象；D「铁路国有化」在第四段末尾才出现，**位于第三段之后**，不可能被前指。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **B. the dispute between the Government and the unions（政府与工会的争端）**：混淆了 argument 的两个义项。此处 argument 是「论点」不是「争吵、争端」；且第二段并未把工会写成争端的对手方，罢工是第三、四段才展开的背景。\n- **C. the criticism made by commuters in the Midlands（中部通勤者的批评）**：第二段确实提到中部和北部通勤者「得到的关注更少」，但那是**作者**的批评，属于作者的声音，不是作者所要回指的 the argument。\n- **D. the proposal to nationalise the railways（铁路国有化的提议）**：典型的**位置陷阱**。国有化出现在第四段末句 The threat of nationalisation may have been seen off for now，排在第三段**之后**，前指不可能指向后文。\n- **A. the claim that passengers alone should pay for the railway**：正确。与第二段 The Government's argument is that ... should be borne by those who use it 严格对应。"
+        }
+      ]
+    },
+    {
+      "no": "V5",
+      "tag": "变体 5 · 否定事实题",
+      "type": "否定事实题（NOT）",
+      "stem": "Which of the following is NOT mentioned in Paragraph 4 as a problem facing passengers?",
+      "options": {
+        "A": "overcrowded carriages",
+        "B": "frequent changes to timetables",
+        "C": "poorly managed maintenance work",
+        "D": "rising ticket prices"
+      },
+      "answer": "D",
+      "locate": "第四段第②至③句",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "定位句：**Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must also endure cramped, unreliable services, punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently.**\n译为：是的，需要更多投资，但乘客还必须忍受拥挤不堪、准点无望的服务，而且时不时被改点时的例行混乱、或被处理得一塌糊涂的计划检修所打断——若如此，他们就不会愿意无限期地多付钱。\n本段列举乘客额外承受的三项服务缺陷：\n- cramped, unreliable services → **A 拥挤的车厢**；\n- regular chaos when timetables are changed → **B 时刻表频繁变更**；\n- planned maintenance is managed incompetently → **C 检修管理不善**。\n**票价上涨（D）** 是全文讨论的前提与对象，不是第四段作为「乘客额外承受的问题」列举的内容。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① `if they must also endure ...`：if 引导**条件状语从句**，must 表「不得不」，also 强调「在付更多钱之外还须」承受。\n② `cramped, unreliable services`：两个形容词**并列**修饰 services，中间用逗号而非 and，属紧凑并列。\n③ `punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently`：**过去分词短语作后置定语**修饰 services，相当于 which are punctuated by ...；punctuated by 后接两个并列成分，第二个 planned maintenance 前**省略了 by**。\n④ `when timetables are changed, or planned maintenance is managed incompetently`：when 引导时间状语从句，or 连接两个并列的**被动结构**（timetables are changed / maintenance is managed）。"
+        },
+        {
+          "k": "难点解析",
+          "t": "否定事实题（NOT / EXCEPT）的唯一稳妥做法是**逐项回原文找对应**，四项中必有三项能在定位范围内找到同义替换。\n- A overcrowded ← `cramped`（拥挤的），**同义替换**成立；\n- B frequent changes to timetables ← `regular chaos when timetables are changed`，regular 对应 frequent、chaos 对应 changes，成立；\n- C poorly managed maintenance ← `planned maintenance is managed incompetently`，incompetently 对应 poorly，成立；\n- D rising ticket prices：第四段只在条件句里说 `will not be willing to pay more`（乘客不愿再多付），这是在描述**乘客的反应**，而非把「票价上涨」列为乘客承受的**服务问题**；票价上涨本身是一段就提出的讨论对象。\n因此 D 是「未被作为问题提及」的一项。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **A. overcrowded carriages**：原文有（cramped），**不能**选。易错原因是考生没把形容词 cramped 与名词短语 overcrowded carriages 认成同义替换。\n- **B. frequent changes to timetables**：原文有（regular chaos when timetables are changed），不能选。易错原因是没看懂 chaos（混乱）在此指的就是「改点」本身带来的麻烦。\n- **C. poorly managed maintenance work**：原文有（planned maintenance is managed incompetently），不能选。易错原因是漏读了 or 之后的第二个被动结构，只看到 timetables 就以为句子结束。\n- **D. rising ticket prices**：正确项。易错原因是把 `pay more` 直接读成「票价上涨是第四段列的问题」——但该短语的主语是 passengers（乘客不愿付），不是在列举服务缺陷；且票价上涨在第一段已作为讨论起点，不属于本段的列举。"
+        }
+      ]
+    },
+    {
+      "no": "V6",
+      "tag": "变体 6 · 段落作用",
+      "type": "段落作用题",
+      "stem": "What is the function of Paragraph 3 in the text?",
+      "options": {
+        "A": "To illustrate the unfairness of the pricing argument",
+        "B": "To summarise the main causes of the strikes",
+        "C": "To introduce the Government's new regulation",
+        "D": "To compare rail services in different regions"
+      },
+      "answer": "A",
+      "locate": "第三段全段（两个反诘句），承接第二段 the Government's argument",
+      "blocks": [
+        {
+          "k": "原句含义",
+          "t": "本段原文：**Why, the argument goes, should a car-driving pensioner from Lincolnshire have to subsidise the daily commute of a stockbroker from Surrey? And why should passengers in the Midlands and the North, who already pay more than those in the South East, be asked to pay still more?**\n译为：按这种论点的说法，一位来自林肯郡、自己开车的养老金领取者，凭什么非得去补贴一位来自萨里郡的股票经纪人的日常通勤呢？又凭什么要让英格兰中部和北部那些已经比东南部付得更多的乘客，再多付一些呢？\n两句都是**反诘**，一次用「人」对比（开车养老金领取者 ↔ 股票经纪人），一次用「地区」对比（中部北部 ↔ 东南部），把第二段「使用者付费」的抽象论点放进具体场景，让它的**不公平**直观可见。"
+        },
+        {
+          "k": "语法辨析",
+          "t": "① `Why should ... ?` 与 `And why should ... ?`：**修辞性疑问句**（rhetorical question），形式是问句、功能是断言，表达「没有任何理由」。两个问句用 And 并列，构成递进式反诘。\n② `the argument goes`：**插入语**，插在主谓之间，用逗号隔开，去掉不影响句法完整。\n③ `who already pay more than those in the South East`：who 引导**非限制性定语从句**修饰 passengers；比较结构 `more than those` 中 those **替代** passengers in the South East，避免重复。\n④ `be asked to pay still more`：**被动语态**；still 修饰比较级 more，表「还要更多」；be asked to do 意为「被要求做」。"
+        },
+        {
+          "k": "难点解析",
+          "t": "段落作用题要回答三件事：**本段做了什么 · 与上段什么关系 · 为下文铺垫什么**。\n- 本段**没有引入任何新事实、数据或人物**，只有两个反诘问句——所以它的功能不可能是 summarize 或 introduce 新信息；\n- 它紧接第二段的 The Government's argument，把「使用者付费」这一抽象原则放进两个具体个案（谁在补贴谁）；\n- 具体个案的作用就是 **illustrate（举例说明）**：让读者直观看到「让穷人补贴富人、让穷地区补贴富地区」的荒谬，从而**否定**第二段的论点。\n正因为本段只做「举例论证」而没有新信息，四个选项中只有 A 的动词 illustrate 与之匹配。"
+        },
+        {
+          "k": "易错点解析",
+          "t": "- **B. To summarise the main causes of the strikes（概括罢工的主要原因）**：时间与内容双错。罢工的原因（薪酬、岗位、工作条件）在更后文展开，第三段**通篇未提罢工**，也无概括性表述。\n- **C. To introduce the Government's new regulation（介绍政府的新法规）**：典型的**顺序陷阱**。最低服务要求的新法规（minimum service requirement）在**第四段**才出现，排在第三段之后，本段不可能提前介绍。\n- **D. To compare rail services in different regions（比较不同地区的铁路服务）**：**偷换层次**。段内确实比较了中部北部与东南部的票价，但比较只是论证的**手段**，段落功能问的是「作者写这段的**目的**」，必须回到 illustrate unfairness 这一层。\n- **A. To illustrate the unfairness of the pricing argument**：正确。两个反诘句把抽象论点具体化，目的正是显示其不公。"
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "justify",
+      "ipa": "/ˈdʒʌstɪfaɪ/",
+      "pos": "v.",
+      "cn": "证明…正当；为…辩解",
+      "note": "justify + n./doing sth；be justified in doing sth 有理由做某事。名词 justification，形容词 justified（本段末 justified anger 即「合理的愤怒」）。"
+    },
+    {
+      "w": "impose",
+      "ipa": "/ɪmˈpəʊz/",
+      "pos": "v.",
+      "cn": "强加；征收",
+      "note": "impose sth on sb（把…强加于某人）；impose a burden on taxpayers。名词 imposition。"
+    },
+    {
+      "w": "grimly",
+      "ipa": "/ˈɡrɪmli/",
+      "pos": "adv.",
+      "cn": "令人沮丧地；严峻地",
+      "note": "grimly reliable 是矛盾修辞，把「可靠」写成负面评价。形容词 grim（严峻的、令人不快的）。"
+    },
+    {
+      "w": "ritual",
+      "ipa": "/ˈrɪtʃuəl/",
+      "pos": "n.",
+      "cn": "惯例；仪式",
+      "note": "此处不指宗教仪式，而指「年年照做的惯例」。annual ritual 年度惯例。"
+    },
+    {
+      "w": "inflation",
+      "ipa": "/ɪnˈfleɪʃn/",
+      "pos": "n.",
+      "cn": "通货膨胀",
+      "note": "keep pace with inflation 与通胀同步；above inflation 高于通胀。动词 inflate（使膨胀）。"
+    },
+    {
+      "w": "borne",
+      "ipa": "/bɔːn/",
+      "pos": "v.",
+      "cn": "承担（bear 的过去分词）",
+      "note": "bear-bore-borne 表「承担」；bear-bore-born 表「生育」。be borne by 由…承担。"
+    },
+    {
+      "w": "subsidise",
+      "ipa": "/ˈsʌbsɪdaɪz/",
+      "pos": "v.",
+      "cn": "补贴；资助",
+      "note": "英式拼写 -ise，美式 -ize。名词 subsidy（补贴）。subsidise the commute 补贴通勤。"
+    },
+    {
+      "w": "commute",
+      "ipa": "/kəˈmjuːt/",
+      "pos": "n./v.",
+      "cn": "通勤；上下班往返",
+      "note": "名词 a daily commute；动词 commute to work。名词 commuter（通勤者）在本文高频出现。"
+    },
+    {
+      "w": "travails",
+      "ipa": "/ˈtræveɪlz/",
+      "pos": "n.",
+      "cn": "艰辛；苦处",
+      "note": "恒用复数，正式书面语。the travails of commuters 通勤者的种种艰辛。"
+    },
+    {
+      "w": "endure",
+      "ipa": "/ɪnˈdjʊə/",
+      "pos": "v.",
+      "cn": "忍受；持续",
+      "note": "endure + n./doing；比 bear 更强调「长时间忍受」。形容词 endurable。"
+    },
+    {
+      "w": "trumpet",
+      "ipa": "/ˈtrʌmpɪt/",
+      "pos": "v.",
+      "cn": "大肆宣扬；吹嘘",
+      "note": "本义「吹小号」，引申为「到处吹嘘」，含贬义。trumpet the improvements。"
+    },
+    {
+      "w": "substantial",
+      "ipa": "/səbˈstænʃl/",
+      "pos": "adj.",
+      "cn": "大量的；可观的",
+      "note": "substantial sums 一大笔钱；反义 slight。同根 substance（实质）。"
+    },
+    {
+      "w": "pledge",
+      "ipa": "/pledʒ/",
+      "pos": "v./n.",
+      "cn": "承诺；保证",
+      "note": "pledge to do sth；make a pledge。近义 promise，但更正式、更强调公开承诺。"
+    },
+    {
+      "w": "indefinitely",
+      "ipa": "/ɪnˈdefɪnətli/",
+      "pos": "adv.",
+      "cn": "无限期地",
+      "note": "pay more indefinitely 无限期地多付钱。形容词 indefinite（不确定的、无限期的）。"
+    },
+    {
+      "w": "vengeance",
+      "ipa": "/ˈvendʒəns/",
+      "pos": "n.",
+      "cn": "报复；猛烈",
+      "note": "with a vengeance 是固定短语，意为「猛烈地、变本加厉地」，不译作「带着报复」。"
+    },
+    {
+      "w": "nationalisation",
+      "ipa": "/ˌnæʃnəlaɪˈzeɪʃn/",
+      "pos": "n.",
+      "cn": "国有化",
+      "note": "动词 nationalise（收归国有），反义 privatise（私有化）。本质是所有权的变更，对应第 24 题 a change of ownership。"
+    }
+  ],
+  "summary": {
+    "main_idea": "本文围绕英国铁路客运票价再度上涨展开，指出这次涨幅虽略低于去年却仍高于通胀，因此仍不合理。作者接着质疑「使用者付费」的涨价理由、指出地区间关注失衡，批评运营商在严重罢工中未能提供基本服务、主张受影响乘客应获补偿。最后指出政府拟设最低服务水平只是治标之举，若不正视乘客合理的愤怒，国有化将以更猛烈的方式回归——不断上涨的票价模式已不可持续。",
+    "structure": [
+      {
+        "h": "第一段",
+        "b": "以修辞性反问开篇，指出票价再度上涨，涨幅高于通胀，是「令人沮丧的年度惯例」"
+      },
+      {
+        "h": "第二段",
+        "b": "复述「使用者付费」的涨价理由并加以质疑，指出东南部与中部、北部之间关注失衡"
+      },
+      {
+        "h": "第三段",
+        "b": "转入罢工与服务：运营商服务不达标，作者主张受影响乘客应获补偿"
+      },
+      {
+        "h": "第四段",
+        "b": "评政府修法设最低服务水平，指出需配套措施，警告不正视乘客愤怒将招致国有化回归"
+      },
+      {
+        "h": "全文立场",
+        "b": "站在乘客一方，认为涨价缺乏正当性、服务与收费不匹配，主张铁路须改革"
+      }
+    ]
+  }
+}

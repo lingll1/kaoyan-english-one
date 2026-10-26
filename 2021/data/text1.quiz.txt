@@ -1,0 +1,555 @@
+# Text 1 题目区逐词标注（2021 英语一 · 第 21–25 题 + 6 道变体）
+# 块标记 @stem:<题号> / @opt:<题号>:<A|B|C|D>；词行 词|音标|本句含义；~ 开头为中文整句译文。
+# 标点单独成行，音标与释义写 _。所有格合并进单词（year's / operators' / Government's）。
+
+@stem:21
+The|/ðə/|art. 定冠词
+author|/ˈɔːθə/|n. 作者
+holds|/həʊldz/|v. 认为
+that|/ðæt/|conj. 引导宾语从句
+this|/ðɪs/|adj. 今年的
+year's|/jɪəz/|n. 年（所有格）
+increase|/ˈɪŋkriːs/|n. 上涨
+in|/ɪn/|prep. 在……方面
+rail|/reɪl/|n. 铁路
+passenger|/ˈpæsɪndʒə/|n. 乘客
+fares|/feəz/|n. 票价
+______|_|_|
+~作者认为，今年铁路客运票价的上涨 ______。
+
+@opt:21:A
+will|/wɪl/|modal. 将
+ease|/iːz/|v. 减轻
+train|/treɪn/|n. 火车
+operators'|/ˈɒpəreɪtəz/|n. 运营商的
+burden|/ˈbɜːdn/|n. 负担
+~将减轻火车运营商的负担。
+
+@opt:21:B
+has|/hæz/|v. 已经
+kept|/kept/|v. 保持（keep 过去分词）
+pace|/peɪs/|n. 同步（keep pace with）
+with|/wɪð/|prep. 与……
+inflation|/ɪnˈfleɪʃn/|n. 通货膨胀
+~已与通货膨胀同步（涨幅与通胀持平）。
+
+@opt:21:C
+is|/ɪz/|v. 是
+a|/ə/|art. 一个
+big|/bɪɡ/|adj. 大的
+surprise|/səˈpraɪz/|n. 意外
+to|/tə/|prep. 对……而言
+commuters|/kəˈmjuːtəz/|n. 通勤者
+~对通勤者来说是个大大的意外。
+
+@opt:21:D
+remains|/rɪˈmeɪnz/|v. 仍然是
+an|/ən/|art. 一个
+unreasonable|/ʌnˈriːznəbl/|adj. 不合理的
+measure|/ˈmeʒə/|n. 措施
+~仍然是一项不合理的措施。
+
+@stem:22
+The|/ðə/|art. 定冠词
+stockbroker|/ˈstɒkbrəʊkə/|n. 股票经纪人
+in|/ɪn/|prep. 在……中
+Paragraph|/ˈpærəɡrɑːf/|n. 段落
+2|/tuː/|num. 第二
+is|/ɪz/|v. 被
+used|/juːzd/|v. 用来（be used to do）
+to|/tə/|prep. 构成不定式
+stand|/stænd/|v. 代表（stand for）
+for|/fɔː/|prep. 代表
+______|_|_|
+~第二段里的那位股票经纪人被用来代表 ______。
+
+@opt:22:A
+car|/kɑː/|n. 汽车
+drivers|/ˈdraɪvəz/|n. 驾驶者
+~开汽车的人。
+
+@opt:22:B
+rail|/reɪl/|n. 铁路
+travellers|/ˈtrævələz/|n. 乘客
+~乘火车出行的人。
+
+@opt:22:C
+local|/ˈləʊkl/|adj. 本地的
+investors|/ɪnˈvestəz/|n. 投资者
+~本地投资者。
+
+@opt:22:D
+ordinary|/ˈɔːdnri/|adj. 普通的
+taxpayers|/ˈtækspeɪəz/|n. 纳税人
+~普通纳税人。
+
+@stem:23
+It|/ɪt/|pron. 形式主语
+is|/ɪz/|v. 被
+indicated|/ˈɪndɪkeɪtɪd/|v. 表明
+in|/ɪn/|prep. 在……中
+Paragraph|/ˈpærəɡrɑːf/|n. 段落
+3|/θriː/|num. 第三
+that|/ðæt/|conj. 引导主语从句
+train|/treɪn/|n. 火车
+operators|/ˈɒpəreɪtəz/|n. 运营商
+______|_|_|
+~第三段表明，火车运营商 ______。
+
+@opt:23:A
+are|/ɑː/|v. 正在
+offering|/ˈɒfərɪŋ/|v. 提供
+compensation|/ˌkɒmpenˈseɪʃn/|n. 补偿
+to|/tə/|prep. 给
+commuters|/kəˈmjuːtəz/|n. 通勤者
+~正在向通勤者提供补偿。
+
+@opt:23:B
+are|/ɑː/|v. 正在
+trying|/ˈtraɪɪŋ/|v. 试图
+to|/tə/|prep. 构成不定式
+repair|/rɪˈpeə/|v. 修复
+relations|/rɪˈleɪʃnz/|n. 关系
+with|/wɪð/|prep. 与……
+the|/ðə/|art. 定冠词
+unions|/ˈjuːniənz/|n. 工会
+~正试图修复与工会的关系。
+
+@opt:23:C
+have|/hæv/|v. 已经
+failed|/feɪld/|v. 未能
+to|/tə/|prep. 构成不定式
+provide|/prəˈvaɪd/|v. 提供
+an|/ən/|art. 一个
+adequate|/ˈædɪkwət/|adj. 合格的
+service|/ˈsɜːvɪs/|n. 服务
+~未能提供合格的服务。
+
+@opt:23:D
+have|/hæv/|v. 已经
+suffered|/ˈsʌfəd/|v. 遭受
+huge|/hjuːdʒ/|adj. 巨大的
+losses|/ˈlɒsɪz/|n. 损失
+owing|/ˈəʊɪŋ/|v. 由于（owing to）
+to|/tə/|prep. 由于
+the|/ðə/|art. 定冠词
+strikes|/straɪks/|n. 罢工
+~因罢工而遭受了巨大损失。
+
+@stem:24
+If|/ɪf/|conj. 如果
+unable|/ʌnˈeɪbl/|adj. 不能
+to|/tə/|prep. 构成不定式
+calm|/kɑːm/|v. 使平静
+down|/daʊn/|adv. 完全地（calm down）
+passengers|/ˈpæsɪndʒəz/|n. 乘客
+the|/ðə/|art. 定冠词
+railways|/ˈreɪlweɪz/|n. 铁路公司
+may|/meɪ/|modal. 可能
+have|/hæv/|v. 不得不（have to）
+to|/tə/|prep. 构成不定式
+face|/feɪs/|v. 面临
+______|_|_|
+~如果无法让乘客平静下来，铁路公司可能不得不面对 ______。
+
+@opt:24:A
+the|/ðə/|art. 定冠词
+loss|/lɒs/|n. 损失
+of|/əv/|prep. ……的
+investment|/ɪnˈvestmənt/|n. 投资
+~投资的流失。
+
+@opt:24:B
+the|/ðə/|art. 定冠词
+collapse|/kəˈlæps/|n. 崩溃
+of|/əv/|prep. ……的
+operations|/ˌɒpəˈreɪʃnz/|n. 运营
+~运营的崩溃。
+
+@opt:24:C
+a|/ə/|art. 一个
+reduction|/rɪˈdʌkʃn/|n. 减少
+of|/əv/|prep. ……的
+revenue|/ˈrevənjuː/|n. 收入
+~收入的减少。
+
+@opt:24:D
+a|/ə/|art. 一个
+change|/tʃeɪndʒ/|n. 变更
+of|/əv/|prep. ……的
+ownership|/ˈəʊnəʃɪp/|n. 所有权
+~所有权的变更。
+
+@stem:25
+Which|/wɪtʃ/|pron. 哪一个
+of|/əv/|prep. ……之中
+the|/ðə/|art. 定冠词
+following|/ˈfɒləʊɪŋ/|adj. 下列的
+would|/wʊd/|modal. 将
+be|/bi/|v. 是
+the|/ðə/|art. 定冠词
+best|/best/|adj. 最好的
+title|/ˈtaɪtl/|n. 标题
+for|/fɔː/|prep. 为……
+the|/ðə/|art. 定冠词
+text|/tekst/|n. 文章
+~下列哪一项最适合作为本文的标题？
+
+@opt:25:A
+Who|/huː/|pron. 谁
+Are|/ɑː/|v. 应当（be to blame）
+to|/tə/|prep. 构成不定式
+Blame|/bleɪm/|v. 责怪
+for|/fɔː/|prep. 因为……
+the|/ðə/|art. 定冠词
+Strikes|/straɪks/|n. 罢工
+?|_|_|
+~罢工该怪谁？
+
+@opt:25:B
+Constant|/ˈkɒnstənt/|adj. 不断的
+Complaining|/kəmˈpleɪnɪŋ/|n. 抱怨
+Doesn't|/ˈdʌznt/|v. 不（does not）
+Work|/wɜːk/|v. 起作用
+~不断抱怨没有用。
+
+@opt:25:C
+Can|/kæn/|modal. 能
+Nationalisation|/ˌnæʃnəlaɪˈzeɪʃn/|n. 国有化
+Bring|/brɪŋ/|v. 带来
+Hope|/həʊp/|n. 希望
+?|_|_|
+~国有化能带来希望吗？
+
+@opt:25:D
+Ever-Rising|/ˈevəˈraɪzɪŋ/|adj. 不断上涨的
+Fares|/feəz/|n. 票价
+Aren't|/ɑːnt/|v. 不是（are not）
+Sustainable|/səˈsteɪnəbl/|adj. 可持续的
+~不断上涨的票价不可持续。
+
+@stem:V1
+The|/ðə/|art. 定冠词
+phrase|/freɪz/|n. 短语
+“|_|_|
+grimly|/ˈɡrɪmli/|adv. 冷酷地
+reliable|/rɪˈlaɪəbl/|adj. 可靠的
+annual|/ˈænjuəl/|adj. 每年的
+ritual|/ˈrɪtʃuəl/|n. 惯例
+”|_|_|
+(|_|_|
+Para.|/ˈpærə/|n. 段
+1|/wʌn/|num. 第一
+)|_|_|
+most|/məʊst/|adv. 最
+probably|/ˈprɒbəbli/|adv. 可能
+means|/miːnz/|v. 意思是
+______|_|_|
+~短语「冷酷而可靠的一年一度惯例」（第一段）最可能的含义是 ______。
+
+@opt:V1:A
+a|/ə/|art. 一个
+joyful|/ˈdʒɔɪfl/|adj. 令人愉快的
+tradition|/trəˈdɪʃn/|n. 传统
+celebrated|/ˈselɪbreɪtɪd/|v. 庆祝
+every|/ˈevri/|adj. 每一个
+year|/jɪə/|n. 年
+~一项每年庆祝的愉快传统。
+
+@opt:V1:B
+a|/ə/|art. 一个
+regular|/ˈreɡjələ/|adj. 定期的
+event|/ɪˈvent/|n. 事件
+that|/ðæt/|pron. 引导定语从句
+people|/ˈpiːpl/|n. 人们
+have|/hæv/|v. 已经
+come|/kʌm/|v. 变得（come to do）
+to|/tə/|prep. 构成不定式
+dread|/dred/|v. 害怕
+~一个人们已经变得害怕的定期事件。
+
+@opt:V1:C
+an|/ən/|art. 一个
+official|/əˈfɪʃl/|adj. 官方的
+ceremony|/ˈserəməni/|n. 仪式
+held|/held/|v. 举办
+by|/baɪ/|prep. 由
+the|/ðə/|art. 定冠词
+government|/ˈɡʌvənmənt/|n. 政府
+~由政府举办的一项官方仪式。
+
+@opt:V1:D
+an|/ən/|art. 一个
+unpredictable|/ˌʌnprɪˈdɪktəbl/|adj. 不可预测的
+change|/tʃeɪndʒ/|n. 变化
+in|/ɪn/|prep. 在……方面
+ticket|/ˈtɪkɪt/|n. 车票
+prices|/ˈpraɪsɪz/|n. 价格
+~票价上一次不可预测的变化。
+
+@stem:V2
+It|/ɪt/|pron. 形式主语
+can|/kæn/|modal. 可以
+be|/bi/|v. 被
+inferred|/ɪnˈfɜːd/|v. 推断出
+from|/frɒm/|prep. 从……
+Paragraph|/ˈpærəɡrɑːf/|n. 段落
+2|/tuː/|num. 第二
+that|/ðæt/|conj. 引导主语从句
+commuters|/kəˈmjuːtəz/|n. 通勤者
+in|/ɪn/|prep. 在……
+the|/ðə/|art. 定冠词
+Midlands|/ˈmɪdləndz/|n. 英格兰中部
+and|/ænd/|conj. 和
+the|/ðə/|art. 定冠词
+North|/nɔːθ/|n. 英格兰北部
+______|_|_|
+~从第二段可以推断出，英格兰中部和北部的通勤者 ______。
+
+@opt:V2:A
+pay|/peɪ/|v. 支付
+much|/mʌtʃ/|adv. ……得多
+less|/les/|adv. 更少
+for|/fɔː/|prep. 为……
+their|/ðeə/|pron. 他们的
+train|/treɪn/|n. 火车
+tickets|/ˈtɪkɪts/|n. 车票
+than|/ðæn/|conj. 比
+those|/ðəʊz/|pron. 那些人
+in|/ɪn/|prep. 在……
+the|/ðə/|art. 定冠词
+South|/saʊθ/|n. 南部
+East|/iːst/|n. 东部
+~买火车票比东南部的人便宜得多。
+
+@opt:V2:B
+have|/hæv/|v. 已经
+drawn|/drɔːn/|v. 引起（draw attention）
+less|/les/|adj. 更少的
+attention|/əˈtenʃn/|n. 关注
+despite|/dɪˈspaɪt/|prep. 尽管
+poorer|/ˈpɔːrə/|adj. 更差的
+rail|/reɪl/|n. 铁路
+infrastructure|/ˈɪnfrəstrʌktʃə/|n. 基础设施
+~尽管铁路基础设施更差，得到的关注却更少。
+
+@opt:V2:C
+have|/hæv/|v. 已经
+staged|/steɪdʒd/|v. 发动（stage a strike）
+strikes|/straɪks/|n. 罢工
+to|/tə/|prep. 为了
+demand|/dɪˈmɑːnd/|v. 要求
+better|/ˈbetə/|adj. 更好的
+rail|/reɪl/|n. 铁路
+services|/ˈsɜːvɪsɪz/|n. 服务
+~已经发动罢工，要求更好的铁路服务。
+
+@opt:V2:D
+are|/ɑː/|v. 是
+more|/mɔː/|adv. 更
+dependent|/dɪˈpendənt/|adj. 依赖的
+on|/ɒn/|prep. 对……
+the|/ðə/|art. 定冠词
+rail|/reɪl/|n. 铁路
+network|/ˈnetwɜːk/|n. 网络
+than|/ðæn/|conj. 比
+other|/ˈʌðə/|adj. 其他的
+commuters|/kəˈmjuːtəz/|n. 通勤者
+~比其他通勤者更依赖铁路网络。
+
+@stem:V3
+Toward|/təˈwɔːd/|prep. 对于
+the|/ðə/|art. 定冠词
+Government's|/ˈɡʌvənmənts/|n. 政府的
+plan|/plæn/|n. 计划
+to|/tə/|prep. 构成不定式
+introduce|/ˌɪntrəˈdjuːs/|v. 引入
+a|/ə/|art. 一个
+minimum|/ˈmɪnɪməm/|adj. 最低限度的
+service|/ˈsɜːvɪs/|n. 服务
+requirement|/rɪˈkwaɪəmənt/|n. 要求
+the|/ðə/|art. 定冠词
+author's|/ˈɔːθəz/|n. 作者的
+attitude|/ˈætɪtjuːd/|n. 态度
+can|/kæn/|modal. 可以
+best|/best/|adv. 最好地
+be|/bi/|v. 被
+described|/dɪˈskraɪbd/|v. 描述
+as|/əz/|prep. 作为
+______|_|_|
+~对于政府引入最低服务要求的计划，作者的态度最恰当的表述是 ______。
+
+@opt:V3:A
+reserved|/rɪˈzɜːvd/|adj. 有所保留的
+approval|/əˈpruːvl/|n. 赞同
+~有保留的赞同。
+
+@opt:V3:B
+outright|/ˈaʊtraɪt/|adj. 彻底的
+dismissal|/dɪsˈmɪsl/|n. 否定
+~彻底否定。
+
+@opt:V3:C
+complete|/kəmˈpliːt/|adj. 完全的
+indifference|/ɪnˈdɪfrəns/|n. 漠不关心
+~完全漠不关心。
+
+@opt:V3:D
+strong|/strɒŋ/|adj. 强烈的
+suspicion|/səˈspɪʃn/|n. 怀疑
+~强烈的怀疑。
+
+@stem:V4
+The|/ðə/|art. 定冠词
+word|/wɜːd/|n. 单词
+“|_|_|
+argument|/ˈɑːɡjumənt/|n. 论点
+”|_|_|
+in|/ɪn/|prep. 在……
+Paragraph|/ˈpærəɡrɑːf/|n. 段落
+3|/θriː/|num. 第三
+refers|/rɪˈfɜːz/|v. 指的是
+to|/tə/|prep. 指……
+______|_|_|
+~第三段中的单词「argument（论点）」指的是 ______。
+
+@opt:V4:A
+the|/ðə/|art. 定冠词
+claim|/kleɪm/|n. 主张
+that|/ðæt/|conj. 引导同位语从句
+passengers|/ˈpæsɪndʒəz/|n. 乘客
+alone|/əˈləʊn/|adv. 单独地
+should|/ʃʊd/|modal. 应当
+pay|/peɪ/|v. 支付
+for|/fɔː/|prep. 为……
+the|/ðə/|art. 定冠词
+railway|/ˈreɪlweɪ/|n. 铁路
+~乘客应当独自承担铁路费用的主张。
+
+@opt:V4:B
+the|/ðə/|art. 定冠词
+dispute|/dɪˈspjuːt/|n. 争端
+between|/bɪˈtwiːn/|prep. 在……之间
+the|/ðə/|art. 定冠词
+Government|/ˈɡʌvənmənt/|n. 政府
+and|/ænd/|conj. 和
+the|/ðə/|art. 定冠词
+unions|/ˈjuːniənz/|n. 工会
+~政府与工会之间的争端。
+
+@opt:V4:C
+the|/ðə/|art. 定冠词
+criticism|/ˈkrɪtɪsɪzəm/|n. 批评
+made|/meɪd/|v. 做出
+by|/baɪ/|prep. 由
+commuters|/kəˈmjuːtəz/|n. 通勤者
+in|/ɪn/|prep. 在……
+the|/ðə/|art. 定冠词
+Midlands|/ˈmɪdləndz/|n. 英格兰中部
+~英格兰中部通勤者提出的批评。
+
+@opt:V4:D
+the|/ðə/|art. 定冠词
+proposal|/prəˈpəʊzl/|n. 提议
+to|/tə/|prep. 构成不定式
+nationalise|/ˈnæʃnəlaɪz/|v. 国有化
+the|/ðə/|art. 定冠词
+railways|/ˈreɪlweɪz/|n. 铁路
+~把铁路国有化的提议。
+
+@stem:V5
+Which|/wɪtʃ/|pron. 哪一个
+of|/əv/|prep. ……之中
+the|/ðə/|art. 定冠词
+following|/ˈfɒləʊɪŋ/|adj. 下列的
+is|/ɪz/|v. 被
+NOT|/nɒt/|adv. 不
+mentioned|/ˈmenʃnd/|v. 提到
+in|/ɪn/|prep. 在……
+Paragraph|/ˈpærəɡrɑːf/|n. 段落
+4|/fɔː/|num. 第四
+as|/əz/|prep. 作为
+a|/ə/|art. 一个
+problem|/ˈprɒbləm/|n. 问题
+facing|/ˈfeɪsɪŋ/|v. 面对
+passengers|/ˈpæsɪndʒəz/|n. 乘客
+~下列哪一项不是第四段中提到的乘客面临的问题？
+
+@opt:V5:A
+overcrowded|/ˌəʊvəˈkraʊdɪd/|adj. 过度拥挤的
+carriages|/ˈkærɪdʒɪz/|n. 车厢
+~过度拥挤的车厢。
+
+@opt:V5:B
+frequent|/ˈfriːkwənt/|adj. 频繁的
+changes|/ˈtʃeɪndʒɪz/|n. 变更
+to|/tə/|prep. 对……
+timetables|/ˈtaɪmteɪblz/|n. 时刻表
+~时刻表频繁变更。
+
+@opt:V5:C
+poorly|/ˈpɔːli/|adv. 拙劣地
+managed|/ˈmænɪdʒd/|v. 管理
+maintenance|/ˈmeɪntənəns/|n. 检修
+work|/wɜːk/|n. 工作
+~管理不善的检修工作。
+
+@opt:V5:D
+rising|/ˈraɪzɪŋ/|adj. 上涨的
+ticket|/ˈtɪkɪt/|n. 车票
+prices|/ˈpraɪsɪz/|n. 价格
+~不断上涨的票价。
+
+@stem:V6
+What|/wɒt/|pron. 什么
+is|/ɪz/|v. 是
+the|/ðə/|art. 定冠词
+function|/ˈfʌŋkʃn/|n. 作用
+of|/əv/|prep. ……的
+Paragraph|/ˈpærəɡrɑːf/|n. 段落
+3|/θriː/|num. 第三
+in|/ɪn/|prep. 在……中
+the|/ðə/|art. 定冠词
+text|/tekst/|n. 文章
+~第三段在文中起什么作用？
+
+@opt:V6:A
+To|/tə/|prep. 为了
+illustrate|/ˈɪləstreɪt/|v. 说明
+the|/ðə/|art. 定冠词
+unfairness|/ʌnˈfeənəs/|n. 不公平
+of|/əv/|prep. ……的
+the|/ðə/|art. 定冠词
+pricing|/ˈpraɪsɪŋ/|n. 定价
+argument|/ˈɑːɡjumənt/|n. 论点
+~说明涨价论点的不公平。
+
+@opt:V6:B
+To|/tə/|prep. 为了
+summarise|/ˈsʌməraɪz/|v. 概括
+the|/ðə/|art. 定冠词
+main|/meɪn/|adj. 主要的
+causes|/ˈkɔːzɪz/|n. 原因
+of|/əv/|prep. ……的
+the|/ðə/|art. 定冠词
+strikes|/straɪks/|n. 罢工
+~概括罢工的主要原因。
+
+@opt:V6:C
+To|/tə/|prep. 为了
+introduce|/ˌɪntrəˈdjuːs/|v. 介绍
+the|/ðə/|art. 定冠词
+Government's|/ˈɡʌvənmənts/|n. 政府的
+new|/njuː/|adj. 新的
+regulation|/ˌreɡjuˈleɪʃn/|n. 法规
+~介绍政府的新法规。
+
+@opt:V6:D
+To|/tə/|prep. 为了
+compare|/kəmˈpeə/|v. 比较
+rail|/reɪl/|n. 铁路
+services|/ˈsɜːvɪsɪz/|n. 服务
+in|/ɪn/|prep. 在……
+different|/ˈdɪfrənt/|adj. 不同的
+regions|/ˈriːdʒənz/|n. 地区
+~比较不同地区的铁路服务。

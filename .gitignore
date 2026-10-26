@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# _rootindex.py 生成的跨年份入口页（构建产物，不入库）
+/docs/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 整理过程中的中间文件
+_web/
+_ans.json
+*.docx
+!2021/**/*.docx
