@@ -487,7 +487,7 @@ body.no-ann .wd .an{margin-bottom:0}
   <button id="t-gloss" title="显示/隐藏词义">义</button>
   <button id="t-ann" title="显示/隐藏全部小字注释">注</button>
   <button id="t-size" title="字号：小/中/大">中</button>
-  <button id="t-rate" title="朗读倍速：单击 1x→0.5x→0.25x→1x；长按 2x，再单击回 1x">1x</button>
+  <button id="t-rate" title="朗读倍速：单击 1x→0.9x→0.8x→0.75x→1x；长按 2x，再单击回 1x">1x</button>
   <button id="t-speak" title="点击单词自动朗读：开 / 关">读</button>
   <button id="t-top" title="回到顶部">↑</button>
 </div>
@@ -521,7 +521,7 @@ body.no-ann .wd .an{margin-bottom:0}
   var synth=window.speechSynthesis, Utter=window.SpeechSynthesisUtterance;
   var CK='ykyy_tts', cfg={on:true,rate:1};
   try{ var sv=localStorage.getItem(CK); if(sv){ var ov=JSON.parse(sv); cfg.on=(ov.on!==false); cfg.rate=parseFloat(ov.rate)||1; } }catch(e){}
-  if([1,0.5,0.25,2].indexOf(cfg.rate)<0) cfg.rate=1;
+  if([1,0.9,0.8,0.75,2].indexOf(cfg.rate)<0) cfg.rate=1;
   function saveCfg(){ try{ localStorage.setItem(CK,JSON.stringify(cfg)); }catch(e){} }
 
   function allVoices(){ try{ return synth?(synth.getVoices()||[]):[]; }catch(e){ return []; } }
@@ -685,12 +685,12 @@ body.no-ann .wd .an{margin-bottom:0}
     });
   }
   var rtb=document.getElementById('t-rate');
-  var CYCLE=[1,0.5,0.25], LP_RATE=2;
-  function rateLabel(r){ return (r===1?'1x':r===2?'2x':(r===0.5?'0.5x':'0.25x')); }
+  var CYCLE=[1,0.9,0.8,0.75], LP_RATE=2;
+  function rateLabel(r){ return r+'x'; }
   function paintRate(){
     if(!rtb) return;
     rtb.textContent=rateLabel(cfg.rate);
-    rtb.title='朗读倍速 '+rateLabel(cfg.rate)+'　单击：1x → 0.5x → 0.25x → 1x　长按（0.5 秒）：2x，再单击回 1x';
+    rtb.title='朗读倍速 '+rateLabel(cfg.rate)+'　单击：1x → 0.9x → 0.8x → 0.75x → 1x　长按（0.5 秒）：2x，再单击回 1x';
     rtb.classList.toggle('fast', cfg.rate===LP_RATE);
   }
   function setRate(r){ cfg.rate=r; saveCfg(); paintRate(); }
