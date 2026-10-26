@@ -5,6 +5,8 @@ __pycache__/
 
 # _rootindex.py 生成的跨年份入口页（构建产物，不入库）
 /docs/
+# build.py 生成的年份入口页（构建产物，不入库）
+/[0-9][0-9][0-9][0-9]/docs/index.html
 
 # 编辑器
 .vscode/
